@@ -1,0 +1,86 @@
+{
+    "sectionData": [
+        {
+            "locationName": "Entrance Section",
+            "metrics": {
+                "waitTimeSeconds": 14,
+                "workForceUtilization": {
+                    "persons": [
+                        {
+                            "id": "1",
+                            "firstName": "Bob",
+                            "lastName": "Bastion",
+                            "email": "bob.bastion@yqapp.com"
+                        },
+                        {
+                            "id": "2",
+                            "firstName": "Alice",
+                            "lastName": "Alistair",
+                            "email": "alice.alistair@yqapp.com"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "locationName": "Checkout Section",
+            "metrics": {
+                "waitTimeSeconds": 178,
+                "workForceUtilization": {
+                    "persons": [
+                        {
+                            "id": "3",
+                            "firstName": "Chair",
+                            "lastName": "Colster",
+                            "email": "chair.colster@yqapp.com"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "locationName": "Support Desk",
+            "metrics": {
+                "waitTimeSeconds": 273,
+                "workForceUtilization": {
+                    "persons": [
+                        {
+                            "id": "4",
+                            "firstName": "Dave",
+                            "lastName": "Deportes",
+                            "email": "dave.deportes@yqapp.com"
+                        },
+                        {
+                            "id": "5",
+                            "firstName": "Eny",
+                            "lastName": "Ellior",
+                            "email": "eny.ellior@yqapp.com"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "locationName": "Lost and Found",
+            "metrics": {
+                "waitTimeSeconds": 125,
+                "workForceUtilization": {
+                    "persons": [
+                        {
+                            "id": "6",
+                            "firstName": "John",
+                            "lastName": "Doe",
+                            "email": "john.doe@yqapp.com"
+                        },
+                        {
+                            "id": "7",
+                            "firstName": "Harry",
+                            "lastName": "Potter",
+                            "email": "harry.potter@yqapp.com"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
